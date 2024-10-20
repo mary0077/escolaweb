@@ -1,0 +1,15 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de ambiente
+.env
+
+# Ignorar a pasta build (gerada pelo React)
+build/
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
